@@ -11,6 +11,11 @@ This repository showcases the development of an LLM-powered SQL Agent capable of
 
 This notebook series will evolve into a production-ready API, deployed with FastAPI and optionally containerized with Docker.
 
+## Requirement
+
+To run the notebooks, you need to have a *Google_API_Key* so you can run Gemini as the LLM of the Agents. 
+Feel free to change the LLM with any other model you want.
+
 ## Author
 
 **Giorgos Papadakis**  
